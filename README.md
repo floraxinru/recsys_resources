@@ -13,8 +13,16 @@
 
 
 ### Possibly relevant/For Later
-#### Criteo (French company specializing in recsys, and author of 1TB Clicks dataset) highlighted some recent papers at a recsys conference:
+#### Criteo (French company specializing in recsys, and author of 1TB Clicks dataset) 
+  ##### highlighted some recent papers at a recsys conference:
 ###### https://labs.criteo.com/2017/10/criteos-take-recsys-2017-10-papers-not-miss/
+  ##### more about their work
+###### https://labs.criteo.com/2016/09/product-recommendation-criteo/
+
+###### Their famous dataset here, challenge for predicting ad click-through rate
+https://www.kaggle.com/c/criteo-display-ad-challenge/overview
+###### using google cloud ML
+https://cloud.google.com/blog/products/gcp/using-google-cloud-machine-learning-to-predict-clicks-at-scale
 
 #### Yelp dataset challenge
 ###### more for image recognition or sentiment analysis? on till Dec 2019
