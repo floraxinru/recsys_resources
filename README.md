@@ -41,3 +41,7 @@ https://cloud.google.com/blog/products/gcp/using-google-cloud-machine-learning-t
 ##### Yelp dataset challenge
 ###### more for image recognition or sentiment analysis? on till Dec 2019
 ###### https://www.yelp.com/dataset/challenge
+
+##### Coursera courses and specialization on rec sys
+###### https://www.coursera.org/specializations/recommender-systems
+###### https://www.coursera.org/learn/recommender-systems-introduction
