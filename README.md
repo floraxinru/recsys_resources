@@ -1,4 +1,4 @@
-# recommender_datasets
+# recommender system and datasets
 ## Links of datasets and tutorials for simple recommender system as a precursor to group project
 
 ### Tutorials, ready-to-use:
