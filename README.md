@@ -17,29 +17,60 @@
 
 
 ### Well-documented rec-sys projects on Kaggle *
-MovieLens dataset, good walkthrough, covers content-based, collaborative, and hybrid of the two systems *
 
-https://www.kaggle.com/rounakbanik/movie-recommender-systems
+Great kernel that covers the three types of recommendations systems using the Movies Dataset: 
+  * Demographic Filtering
+  > generalized recommendations to every user, based on movie popularity and/or genre(too simple)
+  * Content Based Filtering
+  > They suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
+  * Collaborative Filtering
+  > This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system **
 
-Another well-written kernel, compares different algorithms and approaches to recommendation systems (more technical than the one above), including deep learning with Keras *
 
-https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender/comments
+Same MovieLens dataset, good walkthrough, covers content-based, collaborative, and hybrid of the two systems:
+https://www.kaggle.com/rounakbanik/movie-recommender-systems *
 
+
+Another well-written kernel for movies, compares different algorithms and approaches to recommendation systems (more technical than the one above), including deep learning with Keras:
+https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender/comments *
+
+
+Restaurant dataset: simple content-based recommender (writeup is a bit lengthy):
+https://www.kaggle.com/liyenhsu/simple-content-based-recommenders
+
+
+Anime dataset - collaborative filtering *
+ > For collaborative filtering we'll need to create a pivot table of users on one axis and tv show names along the other. The pivot table will help us in defining the similarity between users and shows to better predict who will like what.
+
+https://www.kaggle.com/ajmichelutti/collaborative-filtering-on-anime-data *
+
+
+Simple content-based anime recommendation system for Anime Recommendations Database - rec based on 'ratings' and 'genre':
+https://www.kaggle.com/astandrik/simple-anime-recommendation-system-content-based
+
+Same dataset, content-based rec sys using KNN:
+https://www.kaggle.com/mohammed94/content-based-anime-recommender#KNN-for-finding-similar-animes
 
 
 ### Datasets
 
+##### Kaggle datasets
 List of the 7 main recommender datasets on Kaggle (as of late-2018), except for movie datasets which seem to be the most popular
 https://www.kaggle.com/general/65109#384033 (restaurants, hotels, books, anime, Jester jokes)
 
+Note that goodbooks-10k dataset (Ten thousand books, one million ratings. Also books marked to read, and tags.
+) is obsolete. Improved version is available at https://github.com/zygmuntz/goodbooks-10k. *
+ > It has duplicates removed, and more ratings (six million), sorted by time. Book and user IDs are the same.
 
-(no projects/tutorials available on data.world; duplicates may exist on Kaggle):
 
-##### Restaurant & consumer data
-The dataset was obtained from a recommender system prototype. The task was to generate a top-n list of restaurants according to the consumer preferences.
-https://data.world/uci/restaurant-consumer-data
+9MB download, "a medium sized song list, ideal to practice collaborative filter algorithms"
+https://www.kaggle.com/rymnikski/dataset-for-collaborative-filters
+(has one short project using fast.ai for collaborative filtering, but no comments)
 
-##### dataset for a company to predict ad clicks
+
+##### dataset for a company to predict ad clicks 
+(no projects/tutorials available on data.world)
 https://data.world/hackerearth/predict-the-ad-clicks
 
 
