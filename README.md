@@ -12,9 +12,31 @@
 ###### https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 ###### https://github.com/llSourcell/recommender_live
 
-### Datasets, no projects/tutorials available on data.world (duplicates may exist on Kaggle?):
-##### predicting jokes (looks like project for a bootcamp)
-https://data.world/galvanize/jester-dataset-case-study
+
+### Well-documented rec-sys projects on Kaggle
+MovieLens dataset, good walkthrough, covers content-based, collaborative, and hybrid of the two systems *
+https://www.kaggle.com/rounakbanik/movie-recommender-systems
+
+Another well-written kernel, compares different algorithms and approaches to recommendation systems (more technical than the one above), including deep learning with Keras *
+https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender/comments
+
+
+
+### Datasets
+
+List of the main recommender datasets on Kaggle (as of late-2018), except movie datasets which seem to be the most popular
+https://www.kaggle.com/general/65109#384033
+Contains links to:
+Restaurant Data with Consumer Ratings
+Hotel Reviews
+Jester Online Joke Recommender
+MyAnimeList Dataset
+Anime Recommendations Database : similar to the previous one (same source), but smaller and simpler.
+goodbooks-10k
+Retailrocket recommender system dataset
+
+
+(no projects/tutorials available on data.world; duplicates may exist on Kaggle):
 
 ##### Restaurant & consumer data
 The dataset was obtained from a recommender system prototype. The task was to generate a top-n list of restaurants according to the consumer preferences.
