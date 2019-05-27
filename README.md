@@ -18,6 +18,8 @@
 
 ### Well-documented rec-sys projects on Kaggle *
 
+*For Movies* 
+
 Great kernel that covers the three types of recommendations systems using the Movies Dataset:
 https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system **
   * Demographic Filtering
@@ -37,11 +39,15 @@ Another well-written kernel for movies, compares different algorithms and approa
 https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender/comments *
 
 
+*For Restaurant dataset*
+
 Restaurant dataset: simple content-based recommender (writeup is a bit lengthy):
 https://www.kaggle.com/liyenhsu/simple-content-based-recommenders
 
 
-Anime dataset - collaborative filtering *
+*For Anime dataset* 
+
+Anime - collaborative filtering 
  > For collaborative filtering we'll need to create a pivot table of users on one axis and tv show names along the other. The pivot table will help us in defining the similarity between users and shows to better predict who will like what.
 
 https://www.kaggle.com/ajmichelutti/collaborative-filtering-on-anime-data *
@@ -52,6 +58,17 @@ https://www.kaggle.com/astandrik/simple-anime-recommendation-system-content-base
 
 Same dataset, content-based rec sys using KNN:
 https://www.kaggle.com/mohammed94/content-based-anime-recommender#KNN-for-finding-similar-animes
+
+
+*For Goodreads-10k books dataset* 
+(improved goodreads dataset available on Kaggle, see below):
+
+Content-based:
+https://www.kaggle.com/bshirude2/goodreads-content-based-book-recommendation
+
+Collaborative:
+https://www.kaggle.com/sriharshavogeti/collaborative-recommender-system-on-goodreads
+
 
 
 ### Datasets
