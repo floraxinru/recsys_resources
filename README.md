@@ -18,14 +18,15 @@
 
 ### Well-documented rec-sys projects on Kaggle *
 
-Great kernel that covers the three types of recommendations systems using the Movies Dataset: 
+Great kernel that covers the three types of recommendations systems using the Movies Dataset:
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system **
   * Demographic Filtering
   > generalized recommendations to every user, based on movie popularity and/or genre(too simple)
   * Content Based Filtering
   > They suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
   * Collaborative Filtering
   > This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
-https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system **
+
 
 
 Same MovieLens dataset, good walkthrough, covers content-based, collaborative, and hybrid of the two systems:
@@ -60,7 +61,7 @@ List of the 7 main recommender datasets on Kaggle (as of late-2018), except for 
 https://www.kaggle.com/general/65109#384033 (restaurants, hotels, books, anime, Jester jokes)
 
 Note that goodbooks-10k dataset (Ten thousand books, one million ratings. Also books marked to read, and tags.
-) is obsolete. Improved version is available at https://github.com/zygmuntz/goodbooks-10k. *
+) is obsolete. Improved version of the goodbooks dataset is available at https://github.com/zygmuntz/goodbooks-10k. *
  > It has duplicates removed, and more ratings (six million), sorted by time. Book and user IDs are the same.
 
 
