@@ -1,4 +1,4 @@
-# recommender system and datasets
+# recommender system tutorials and datasets
 ## Links of datasets and tutorials for simple recommender system as a precursor to group project
 
 ### Tutorials, ready-to-use:
@@ -14,7 +14,7 @@
 ###### https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 ###### https://github.com/llSourcell/recommender_live
 
-##### Another article/walkthrough of collaborative filtering and SVD
+##### Article of collaborative filtering and SVD -- Theory
 ###### https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75
 
 
