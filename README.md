@@ -14,6 +14,8 @@
 ###### https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 ###### https://github.com/llSourcell/recommender_live
 
+##### Another article/walkthrough of collaborative filtering and SVD
+###### https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75
 
 
 ### Well-documented rec-sys projects on Kaggle *
