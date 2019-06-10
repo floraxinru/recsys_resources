@@ -97,6 +97,10 @@ https://data.world/hackerearth/predict-the-ad-clicks
 
 ### Possibly relevant/For Later:
 
+##### 2 good papers on rec-sys recommended by a Medium blog post:
+Matrix factorization techniques for rec-sys: https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
+Collaborative Filtering: http://yifanhu.net/PUB/cf.pdf *  -- Winner of the IEEE ICDM 10-Year Highest-Impact Paper Award
+
 ##### Criteo (French company specializing in recsys, and author of 1TB Clicks dataset) 
 ##### highlighted some recent papers at a recsys conference:
 ###### https://labs.criteo.com/2017/10/criteos-take-recsys-2017-10-papers-not-miss/
