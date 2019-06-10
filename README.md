@@ -98,8 +98,13 @@ https://data.world/hackerearth/predict-the-ad-clicks
 ### Possibly relevant/For Later:
 
 ##### 2 good papers on rec-sys recommended by a Medium blog post:
+
 Matrix factorization techniques for rec-sys: https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
+
 Collaborative Filtering: http://yifanhu.net/PUB/cf.pdf *  -- Winner of the IEEE ICDM 10-Year Highest-Impact Paper Award
+
+##### June 10 update: 
+alternative apporach - look into using ULMFiT (neural networks and transfer learning), for classifying cuisine before recommendation? https://arxiv.org/abs/1801.06146
 
 ##### Criteo (French company specializing in recsys, and author of 1TB Clicks dataset) 
 ##### highlighted some recent papers at a recsys conference:
