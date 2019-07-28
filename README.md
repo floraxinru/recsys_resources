@@ -103,6 +103,10 @@ Matrix factorization techniques for rec-sys: https://datajobs.com/data-science-r
 
 Collaborative Filtering: http://yifanhu.net/PUB/cf.pdf *  -- Winner of the IEEE ICDM 10-Year Highest-Impact Paper Award
 
+##### *NEW!* Project with a similar idea (found on July 28):
+Produce2Recipe -- [article](https://jhonsen.github.io/2019/04/22/Produce2Recipe/), [repo](https://github.com/jhonsen/Produce2Recipe) *
+From image classifier to Flask app on phone! Focus on the middle part of tagging recipes for now, is it relevant? (not recommending based on user preference like we are hoping to do)
+
 ##### alternative apporach 
 - look into using ULMFiT (neural networks and transfer learning), for classifying cuisine before recommendation? https://arxiv.org/abs/1801.06146
 
