@@ -97,17 +97,20 @@ https://data.world/hackerearth/predict-the-ad-clicks
 
 ### Possibly relevant/For Later:
 
+##### *NEW!* Project with a similar idea (found on July 28):
+* Produce2Recipe -- [article](https://jhonsen.github.io/2019/04/22/Produce2Recipe/), [repo](https://github.com/jhonsen/Produce2Recipe) *
+From image classifier to Flask app; no recommendation system based on user preference like we are planning to do, but the "creating tagging recipes via NLP part could be relevant:
+ - Using Non-negative Matrix Factorization (NMF) to perform topic modeling on scraped recipes (with tags)
+ - focus was on image recognition; no evaluation metric for topic modelling?
+ 
+* [Another project](https://github.com/catherhuang/FP3-recipe): Recipe (includes ingredients) to cuisine type (one of three sides of our ingredient-cuisine_type-recipe_name triangle) * 
+ - hyperparameter optimizing, using bagged classifier, decision tree classifier, and random forest classifier
+
 ##### 2 good papers on rec-sys recommended by a Medium blog post:
 
 Matrix factorization techniques for rec-sys: https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf
 
 Collaborative Filtering: http://yifanhu.net/PUB/cf.pdf *  -- Winner of the IEEE ICDM 10-Year Highest-Impact Paper Award
-
-##### *NEW!* Project with a similar idea (found on July 28):
-Produce2Recipe -- [article](https://jhonsen.github.io/2019/04/22/Produce2Recipe/), [repo](https://github.com/jhonsen/Produce2Recipe) *
-From image classifier to Flask app on phone! Focus on the middle part of tagging recipes for now, is it relevant? (not recommending based on user preference like we are hoping to do)
-
-[Another project](https://github.com/catherhuang/FP3-recipe): Recipe (includes ingredients) to cuisine type (one of three sides of our ingredient-cuisine_type-recipe_name triangle)
 
 ##### Alternative apporach 
 - look into using ULMFiT (neural networks and transfer learning), for classifying cuisine before recommendation? https://arxiv.org/abs/1801.06146
