@@ -105,6 +105,7 @@ From image classifier to Flask app; no recommendation system based on user prefe
  
 * [Another project](https://github.com/catherhuang/FP3-recipe): Recipe (includes ingredients) to cuisine type (one of three sides of our ingredient-cuisine_type-recipe_name triangle) * 
  - hyperparameter optimizing, using bagged classifier, decision tree classifier, and random forest classifier
+ - scraped allrecipes dataset has keywords for each recipe (similar to the tags/labels we want to check against)
 
 ##### 2 good papers on rec-sys recommended by a Medium blog post:
 
