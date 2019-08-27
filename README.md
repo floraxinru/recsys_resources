@@ -97,16 +97,17 @@ https://data.world/hackerearth/predict-the-ad-clicks
 
 ### Possibly relevant/For Later:
 
-##### *NEW!* Project with a similar idea (found on July 28):
+##### Project with a similar idea (found on July 28):
 * Produce2Recipe -- [article](https://jhonsen.github.io/2019/04/22/Produce2Recipe/), [repo](https://github.com/jhonsen/Produce2Recipe) *
 From image classifier to Flask app; no recommendation system based on user preference like we are planning to do, but the "creating tagging recipes via NLP part could be relevant:
  - Using Non-negative Matrix Factorization (NMF) to perform topic modeling on scraped recipes (with tags)
  - focus was on image recognition; no evaluation metric for topic modelling?
  
-* [Another project: FP3](https://github.com/catherhuang/FP3-recipe): Recipe (includes ingredients) to cuisine type (one of three sides of our ingredient-cuisine_type-recipe_name triangle) * 
+* [Another project: FP3](https://github.com/catherhuang/FP3-recipe): Recipe (includes ingredients) to cuisine type (one of three sides of our ingredient-cuisine_type-recipe_name triangle) 
   - hyperparameter optimizing, using bagged classifier, decision tree classifier, and random forest classifier
   - its scraped allrecipes dataset has keywords for each recipe (similar to the tags/labels we want to check against)
   - Aug 18: installed gensim([documentations](https://github.com/RaRe-Technologies/gensim/#documentation)) and imbalanced-learn packages in order to run code from forked repo
+  - Aug 26 discussion, decided code in original repo was problematic: data was not sufficiently cleaned, and no explanation attempted for predicting "Unknown" category the most
 
 ##### 2 good papers on rec-sys recommended by a Medium blog post:
 
