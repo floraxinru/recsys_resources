@@ -11,6 +11,8 @@
 
 ##### Walkthrough of song recommender system:
 
+##### [Building a collaborative filtering system with TensorFlow (new)](http://t.cn/AiETWgaV)
+
 ###### https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
 ###### https://github.com/llSourcell/recommender_live
 
