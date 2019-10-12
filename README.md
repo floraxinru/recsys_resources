@@ -1,5 +1,9 @@
 # recommender system tutorials and datasets
+
 ## Links of datasets and tutorials for simple recommender system as a precursor to group project
+
+## General
+https://github.com/microsoft/recommenders
 
 ### Tutorials, ready-to-use:
 
